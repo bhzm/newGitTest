@@ -7,8 +7,6 @@ On DeskTop Added Line
 This line is added on my DeskTop at 11:15AM
 In GitHub I added this line at 11:16AM
 In GitHub I added this line at 11:20AM
-<<<<<<< HEAD
-In DeskTop I added this line at 11:23AM
-=======
 In GitHub I added this line at 11:22AM
->>>>>>> b02115a890a46ab7cc32ec715dbb48c2390127a2
+In DeskTop I added this line at 11:23AM
+
